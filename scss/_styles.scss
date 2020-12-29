@@ -1,0 +1,34 @@
+body {
+}
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+.columns-container {
+  background: #f90;
+}
+.card-item {
+  background: #f90;
+}
+.card-item-lg {
+  background: #9f0;
+}
+.some-block {
+  width: 384px;
+}
+.bg-light {
+  background: #9f0 !important;
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.7);
+}
+.data {
+  background: #f90;
+}
+.sidebar {
+  background: turquoise;
+}
+.navbar {
+  font-weight: 400;
+}
